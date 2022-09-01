@@ -1,7 +1,7 @@
 {
   "name": "entrega-12",
   "version": "1.0.0",
-  "description": "Entrega 12 para bootcamp de backend Coderhouse",
+  "description": "Entrega Log-in backend Coderhouse",
   "author": "Jonathan Asnes",
   "main": "index.js",
   "type": "module",
